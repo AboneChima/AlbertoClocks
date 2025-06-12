@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AlbertoClocks/static/css/main.57f6bd7d.css",
+    "main.css": "/AlbertoClocks/static/css/main.f6a8b85a.css",
     "main.js": "/AlbertoClocks/static/js/main.95716a05.js",
     "static/media/rolex7.jpg": "/AlbertoClocks/static/media/rolex7.7f42338cb763d66d9d49.jpg",
     "static/media/playfair-display-latin-400-normal.woff": "/AlbertoClocks/static/media/playfair-display-latin-400-normal.9c7c1543d792cb6bb2b2.woff",
@@ -12,11 +12,11 @@
     "static/media/playfair-display-vietnamese-400-normal.woff": "/AlbertoClocks/static/media/playfair-display-vietnamese-400-normal.40221529e528ff3e5a46.woff",
     "static/media/playfair-display-vietnamese-400-normal.woff2": "/AlbertoClocks/static/media/playfair-display-vietnamese-400-normal.5c877b3fa47066dbb461.woff2",
     "index.html": "/AlbertoClocks/index.html",
-    "main.57f6bd7d.css.map": "/AlbertoClocks/static/css/main.57f6bd7d.css.map",
+    "main.f6a8b85a.css.map": "/AlbertoClocks/static/css/main.f6a8b85a.css.map",
     "main.95716a05.js.map": "/AlbertoClocks/static/js/main.95716a05.js.map"
   },
   "entrypoints": [
-    "static/css/main.57f6bd7d.css",
+    "static/css/main.f6a8b85a.css",
     "static/js/main.95716a05.js"
   ]
 }
